@@ -10,7 +10,7 @@
 
 
 # LOW LEVEL TEST CASE
- | Test ID | Description | Exp.o/p | Actual o/p | STATUS | 
+ | Test ID | Description | Expected Output | Actual Output | Status | 
  | --------|:------------|:--------|:-----------|:-------------| 
  | 1 | Push Button --> pressed | Car starts | Red LED ON | PASS |
  | 2 | Push Button --> pressed | WIPER starts and operates at different speed | Different LED's gets ON in sequence | PASS |
