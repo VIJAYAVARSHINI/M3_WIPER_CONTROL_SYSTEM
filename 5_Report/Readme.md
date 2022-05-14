@@ -1,7 +1,11 @@
+# REPORT 
+
+# PROJECT NAME : WIPER CONTROL SYSTEM
+
 # INTRODUCTION
 Wiper's are used to clean the wind shield of the car at the front and rear. A wiper control system is essential to control and maintain the speed of operation of the wiper. Wiper works by removing oil,dust,rain water and dirt.That get struck to the wind shield and the arm is provided by the motor.The warm gear is able to generate the force required to move the wipers as fast as they need to move. The car wipers that have been available in the present day market are manual systems that work on the principle of manual switching. In this project a wiper system that switches ON the wiper on and changes speed of operation and stops the wiper action. 
 
-Advanced Wiper Speed Control System is utilised in all sorts of automobiles, and its primary function is to remove rain air drops from the vehicle's front screen. Because driving a vehicle in the rain is quite difficult, we will use wipers to clear the front screen of the vehicle, which is a mirror, so that we may drive the vehicle even in the rain.
+Advanced Wiper Speed Control System is utilised in all sorts of automobiles, and its primary function is to remove rain air drops from the vehicle's front screen. Because driving a vehicle in the rain is quite difficult, we will use wipers to clear the front screen of the vehicle, which is a mirror, so that we may drive the vehicle even in the rain. This project is done under the referrece from various sources.
 
 
 # WIPER CONTROL SYSTEM 
