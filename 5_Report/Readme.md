@@ -36,7 +36,8 @@ It can support a wide range of 32-bit applications, including high-performance, 
 ### WHEN 
   * When visibility is affected. Likely, the windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
 ### WHO 
-  * Mark Anderson
+  * Invented by Mark Anderson
+  * Now it is used by each and every automobile company and serves essential to users.
 
 
 # SWOT Analysis 
@@ -107,15 +108,21 @@ The RED LED is considered for the ACC position. Once the push button is pressed 
  | 2 | Push Button --> pressed | WIPER starts and operates at different speed | Different LED's gets ON in sequence | PASS |
  | 3 | Push Button --> pressed | Car Stops | LED OFF | PASS |
  
+
+ 
  # OUTPUT
  
  ## CAR ON
  
  ![image](https://user-images.githubusercontent.com/101562511/168419950-daac1271-cde3-4833-883d-a3cb25f6dfe5.png)
  
+ 
+ 
  ## WIPER OPERATION
  
  ![image](https://user-images.githubusercontent.com/101562511/168419963-ffcba513-8c00-48ad-b331-8b6bcff08071.png)
+ 
+ 
  
  ## CAR OFF
 
