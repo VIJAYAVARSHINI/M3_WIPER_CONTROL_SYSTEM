@@ -25,13 +25,13 @@ It can support a wide range of 32-bit applications, including high-performance, 
 
  # 4 W'S
  
-### WHAT IS WIPER SYSTEM
+### WHAT 
   * Windshield wipers keep the windshield of a vehicle clear from rain water, snow, dust and road spray. 
-### WHY WIPER SYSTEM
+### WHY 
   * To keep the windscreen clean and clear the particles which causes disturbance to viewing.
-### WHEN SHOULD WE USE WIPER SYSTEM 
+### WHEN 
   * When visibility is affected. Likely, the windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
-### WHO DISCOVERED WIPER SYSTEM
+### WHO 
   * Mark Anderson
 
 
@@ -40,16 +40,19 @@ It can support a wide range of 32-bit applications, including high-performance, 
 ### Strength
 * Visibility
 * Safety
+* Basic needed equipment for all automobiles
 
 ### Weakness 
 * High cost
 * Not automatic
+* Inertia
 
 ### Opportunities
 * Automatic operation and rain sensors can be implemented in future.
 
 ### Threats 
 * Once the board is repaired replacement is needed.
+* Economical Crisis
 
 # SOFTWARE REQUIREMENTS 
 STM32Cube IDE 
