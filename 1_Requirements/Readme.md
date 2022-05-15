@@ -73,4 +73,4 @@ QEMU
 | ID |	Description | Status |
 | --- | --- | --- |
 | LR_01 |Push Button |	Implemented |
-| LR_02 |Three colour LED's |	Implemented |
+| LR_02 |Different colour LED's |	Implemented |
