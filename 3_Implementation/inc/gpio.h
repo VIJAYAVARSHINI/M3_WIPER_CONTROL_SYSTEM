@@ -9,5 +9,4 @@ void gpiox_clear(GPIORegDef *gpiox, int pin);
 void gpiox_write(GPIORegDef *gpiox, int pin, int value);
 void gpiox_toggle(GPIORegDef *gpiox, int pin);
 
-
 #endif
