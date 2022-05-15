@@ -11,6 +11,7 @@
   *                  calls main()).
   *            After Reset the Cortex-M4 processor is in Thread mode,
   *            priority is Privileged, and the Stack is set to Main.
+  *
   ******************************************************************************
   * @attention
   *
