@@ -11,7 +11,7 @@
 **                      128Kbytes RAM
 **
 **                Set heap size, stack size and stack location according
-**                to application requirements.
+**                to application requirements
 **
 **                Set memory bank area and size if external memory is used
 **
