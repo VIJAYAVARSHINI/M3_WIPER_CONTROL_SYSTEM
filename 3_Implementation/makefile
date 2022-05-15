@@ -7,6 +7,7 @@
 
 RM := rm -rf
 
+
 # All of the sources participating in the build are defined here
 -include sources.mk
 -include USB_HOST/Target/subdir.mk
@@ -17,6 +18,7 @@ RM := rm -rf
 -include Core/Startup/subdir.mk
 -include Core/Src/subdir.mk
 -include objects.mk
+
 
 ifneq ($(MAKECMDGOALS),clean)
 ifneq ($(strip $(S_DEPS)),)
